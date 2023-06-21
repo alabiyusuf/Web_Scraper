@@ -1,0 +1,19 @@
+{
+  "name": "web-scraper-api",
+  "description": "You can scrape data from websites using their supplied URLs using the Web Scraper API, a straightforward web application created with Express.js.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alabi Yusuf",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
